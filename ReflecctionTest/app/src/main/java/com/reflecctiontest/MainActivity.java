@@ -10,7 +10,7 @@ import java.lang.reflect.Method;
 public class MainActivity extends AppCompatActivity {
 
 
-    //hahhahahahh
+    //淡粉色的方式发呆
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
